@@ -12,5 +12,5 @@
 ## Course Program
 
   1. [Python_Reminder](Week_1/Python_Reminder_2023(NN).ipynb)
-  2. [If_Loop_List](Week_2/Seminar 3&4 - Python (NN).ipynb.ipynb)
+  2. [Conditions_Loop_List](Week_2/Week_2_Conditions_Loop_List.ipynb)
 
