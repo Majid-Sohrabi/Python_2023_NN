@@ -9,7 +9,7 @@
 I will collect your home assignment solutions through private github repositories that you need to create. If you haven't done so yet, please give me the info about your homework repository through the google form (see the main pinned message in the telegram chat).
 
 
-| 01 | [Week_1/2023_Python_HW1.ipynb]  | Nov, 23 |
+| 01 | [Week_1/2023_Python_HW1.ipynb](Python_2023_NN/Week_2/2023_Python_HW1.ipynb) | Nov, 23 |
 | -- | ---------------------------- | ------- |
 
 ## Course Program
