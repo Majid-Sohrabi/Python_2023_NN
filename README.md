@@ -19,4 +19,5 @@ I will collect your home assignment solutions through private github repositorie
   2. [Conditions_Loop_List](Week_2/Week_2_Conditions_Loop_List.ipynb)
   3. [Tuple_In_Operator_For](Week_3/Week_3_Tuple_In_For.ipynb)
   4. [Range_String&List_Methods_Slices](Week_4/Week_4_Range_StringList_Methods_Slices.ipynb)
+  5. [Functions_Sets_Dictionary_Sorted](Week_5/Week_5_Functions_Sets_Dictionary.ipynb)
 
