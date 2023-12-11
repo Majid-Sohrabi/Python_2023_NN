@@ -13,6 +13,7 @@ I will collect your home assignment solutions through private github repositorie
 | -- | ---------------------------- | ------- |
 | 02 | [Week_4/2023_Python_HW2.ipynb](Week_4/2023_Python_HW2.ipynb) | Dec, 04 |
 | 03 | [Week_5/2023_Python_HW3.ipynb](Week_5/2023_Python_HW3.ipynb) | Dec, 12 |
+| 04 | [Week_6/2023_Python_HW4.ipynb](Week_6/2023_Python_HW4.ipynb) | Dec, 18 |
 
 ## Course Program
 
