@@ -41,3 +41,6 @@ I will collect your home assignment solutions through private github repositorie
 
   7. [Nestead_UserFunction_Files](Week_6/Week_6_Nestead_User_Function_Files.ipynb)
 
+**Week 7**
+
+  8. [Numpy_Pandas]()
