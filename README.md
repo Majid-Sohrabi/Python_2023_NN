@@ -44,3 +44,4 @@ I will collect your home assignment solutions through private github repositorie
 **Week 7**
 
   7. [Numpy_Pandas_Matplotlib](Week_7/Week_7_Numpy_Pandas_Matplotlib.ipynb)
+  8. [Practice](Week_7/Week_7_Practice.ipynb)
